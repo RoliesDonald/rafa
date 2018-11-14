@@ -1,9 +1,9 @@
 .banner-area {
 	background: url(../img/banner.jpg) no-repeat center center/cover;
 	.overlay-bg {
-		background: -moz-linear-gradient(left, rgba(0,168,255,.95) 0%, rgba(225,0,0,.95) 100%);
-		background: -webkit-linear-gradient(left, rgba(0,168,255,.95) 0%,rgba(225,0,0,.95) 100%);
-		background: linear-gradient(to right, rgba(0,168,255,.95) 0%,rgba(225,0,0,.95) 100%);
+		background: -moz-linear-gradient(left, rgba(180,180,180,.80) 0%, rgba(11,112,145,.60) 100%);
+		background: -webkit-linear-gradient(left, rgba(180,180,180,.80) 0%,rgba(11,112,145,.60) 100%);
+		background: linear-gradient(to right, rgba(180,180,180,.80) 0%,rgba(11,112,145,.60) 100%);
 	}
 }
 .signle-service {
@@ -446,7 +446,6 @@ footer {
 }
 .footer-bottom {
 	padding-top: 40px;
-	border-top: 1px solid #eee;
 	.footer-text {
 		a {
 			&:hover {

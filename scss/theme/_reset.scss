@@ -255,6 +255,7 @@ td, th {
 .transition  { @include transition();}
 .section-full { padding: 150px 0; }
 .section-half { padding: 75px 0; }
+.section-zero { padding: 35px 0;}
 
 
 .flex { @include flexbox();}
