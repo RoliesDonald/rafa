@@ -126,6 +126,14 @@ h6, .h6 {
   font-size: 14px;
   color: #222222; }
 
+.h7 {
+  font-size: 46px;
+  color: #fc4a1a; }
+
+.h8 {
+  font-size: 24px;
+  color: #fc4a1a; }
+
 td, th {
   border-radius: 0px; }
 
@@ -613,8 +621,8 @@ td, th {
     font-size: 24px;
     color: #777777; }
     .section-title h3 b {
-      font-weight: 300;
-      color: #222222; }
+      font-weight: 600;
+      color: #4abdac; }
 
 .progressBar,
 .progressBar-contentCircle {
@@ -854,9 +862,9 @@ td, th {
 .banner-area {
   background: url(../img/banner.jpg) no-repeat center center/cover; }
   .banner-area .overlay-bg {
-    background: -moz-linear-gradient(left, rgba(180, 180, 180, 0.8) 0%, rgba(11, 112, 145, 0.6) 100%);
-    background: -webkit-linear-gradient(left, rgba(180, 180, 180, 0.8) 0%, rgba(11, 112, 145, 0.6) 100%);
-    background: linear-gradient(to right, rgba(180, 180, 180, 0.8) 0%, rgba(11, 112, 145, 0.6) 100%); }
+    background: -moz-linear-gradient(left, rgba(74, 189, 172, 0.8) 0%, rgba(11, 112, 145, 0.75) 100%);
+    background: -webkit-linear-gradient(left, rgba(74, 189, 172, 0.8) 0%, rgba(11, 112, 145, 0.75) 100%);
+    background: linear-gradient(to right, rgba(74, 189, 172, 0.8) 0%, rgba(11, 112, 145, 0.75) 100%); }
 
 .signle-service {
   margin-top: 30px; }
@@ -1021,11 +1029,11 @@ td, th {
     top: 0;
     width: 50%;
     height: 100%;
-    background: #404598;
+    background: #267896;
     z-index: 2; }
     @media (max-width: 991px) {
       .studio-area:before {
-        background: rgba(64, 69, 152, 0.95);
+        background: rgba(38, 120, 150, 0.95);
         width: 100%; } }
   .studio-area:after {
     position: absolute;
